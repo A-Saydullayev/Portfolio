@@ -104,6 +104,11 @@ export default function Home() {
       icon: "https://cdn.worldvectorlogo.com/logos/react-native-1.svg",
       category: "Mobile",
     },
+    {
+      name: "Expo Go",
+      icon: "https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png",
+      category: "Mobile",
+    },
   ];
 
   const [activeCategory, setActiveCategory] = useState<"Frontend" | "Mobile">(
