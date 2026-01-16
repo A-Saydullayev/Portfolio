@@ -257,7 +257,7 @@ export default function Home() {
             </div>
 
             <a
-              href="/cv.pdf"
+              href="/CV/Azizbek_Saydullayev_CV_Resume.pdf"
               download
               className="inline-flex items-center gap-3 mt-8 px-10 py-5 rounded-lg font-bold text-lg tracking-wide bg-gradient-to-r from-emerald-700 via-emerald-600 to-lime-700 hover:from-emerald-600 hover:via-lime-600 hover:to-emerald-500 shadow-[0_0_25px_rgba(52,211,153,0.5)] hover:shadow-[0_0_45px_rgba(52,211,153,0.7)] transition-all duration-400 hover:scale-105 cv-button"
             >
@@ -367,7 +367,7 @@ export default function Home() {
             </p>
 
             <a
-              href="/cv.pdf"
+              href="/CV/Azizbek_Saydullayev_CV_Resume.pdf"
               download
               className="inline-block mt-8 px-10 py-5 rounded-lg font-bold text-lg bg-gradient-to-r from-emerald-700 via-emerald-600 to-lime-700 hover:from-emerald-600 hover:via-lime-600 hover:to-emerald-500 shadow-[0_0_25px_rgba(52,211,153,0.5)] hover:shadow-[0_0_45px_rgba(52,211,153,0.7)] transition-all duration-400"
             >
